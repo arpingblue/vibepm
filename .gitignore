@@ -1,0 +1,23 @@
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+
+# Mac OS X
+.AppleDouble
+.LSOverride
+Icon
+
+# AI specific metadata (optional based on preference)
+.claude/settings.json
+.cursor/
+
+# Temporary files
+tmp/
+temp/
+*.log

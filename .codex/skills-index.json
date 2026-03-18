@@ -1,0 +1,38 @@
+﻿{
+  "skills": [
+    {
+      "name": "VibePM",
+      "description": "VibePM - Transform vague project ideas into clear, actionable project definitions through structured multi-round dialogue. Generates project briefs, MVP definitions, PRD skeletons, and project proposals.",
+      "entry_point": "SKILL.md",
+      "category": "project-management",
+      "version": "1.0.0",
+      "triggers": [
+        "椤圭洰缁忕悊",
+        "浜у搧缁忕悊",
+        "PM",
+        "鎴戞湁涓兂娉?,
+        "甯垜瑙勫垝涓」鐩?,
+        "甯垜鍐欎釜椤圭洰鏂规",
+        "鎴戦渶瑕佷竴浠絇RD",
+        "瀹氫箟鎴戠殑椤圭洰",
+        "姊崇悊椤圭洰闇€姹?,
+        "椤圭洰鑼冨洿",
+        "闇€姹傛枃妗?,
+        "姊崇悊涓€涓嬮渶姹?,
+        "鍋氫釜浜у搧",
+        "VibePM",
+        "project manager",
+        "product manager",
+        "help me plan a project",
+        "I have an idea",
+        "help me write a project proposal",
+        "I need a PRD",
+        "define my project",
+        "MVP definition",
+        "project brief",
+        "project scope",
+        "clarify my project"
+      ]
+    }
+  ]
+}
